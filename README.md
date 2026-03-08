@@ -1,56 +1,58 @@
-<h1 align="center">Hi 👋, I'm Aswin Krishna</h1>
+# Hi 👋 I'm Aswin Krishna
 
-<h3 align="center">Aspiring Software Developer | Learning AI & Machine Learning</h3>
+Frontend Developer focused on building modern web applications.
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Software+Developer;Learning+JavaScript+%26+React;AI+%26+Machine+Learning+Enthusiast;Always+Learning+New+Things" />
-</p>
+🌐 Portfolio: https://aswinkrishna.in
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-- 🌱 Currently learning **JavaScript, React**
-- 🤖 Interested in **AI & Machine Learning**
-- 💻 Love building projects and learning new technologies
-- 📍 Kerala, India
+- Frontend Developer
+- Passionate about clean UI and good user experience
+- Building modern web apps using React and modern tools
 
 ---
 
-## 🛠 Tech Stack
+## 🚀 Tech Stack
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,git,github,vscode" />
-</p>
+### Frontend
+- HTML
+- CSS
+- JavaScript
+- React
+- Next.js
+- Tailwind CSS
+
+### Backend & Database
+- Node.js
+- Firebase
+- MongoDB
+
+### Tools
+- Git
+- GitHub
+- VS Code
+- Figma
+- Vercel
+- Netlify
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=aaswne&show_icons=true&theme=tokyonight" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaswne&layout=compact&theme=tokyonight" />
-
-</p>
+![Aswin's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaswne&show_icons=true&theme=tokyonight)
 
 ---
 
-## 🔥 GitHub Streak
+## 🔥 Most Used Languages
 
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aaswne&theme=tokyonight" />
-
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aaswne&layout=compact&theme=tokyonight)
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Portfolio
 
-<p>
-<a href="https://linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-</a>
-</p>
+Check out my work here:
+
+https://aswinkrishna.in
