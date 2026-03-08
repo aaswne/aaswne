@@ -1,58 +1,54 @@
-# Hi 👋 I'm Aswin Krishna
+<h1 align="center">Aswin Krishna</h1>
 
-Frontend Developer focused on building modern web applications.
+<h3 align="center">Frontend Engineer | Building Modern Web Interfaces</h3>
 
-🌐 Portfolio: https://aswinkrishna.in
-
----
-
-## 👨‍💻 About Me
-
-- Frontend Developer
-- Passionate about clean UI and good user experience
-- Building modern web apps using React and modern tools
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Software+Developer;Learning+JavaScript+%26+React;AI+%26+Machine+Learning+Enthusiast;Always+Learning+New+Things" />
+</p>
 
 ---
+## 🚀 About Me
 
-## 🚀 Tech Stack
+- Frontend Engineer passionate about modern web development
+- Building fast, scalable, and user-friendly applications
+- Experienced with React ecosystem and modern frontend tools
+- 🌐 Portfolio: https://aswinkrishna.in
+---
 
-### Frontend
-- HTML
-- CSS
-- JavaScript
-- React
-- Next.js
-- Tailwind CSS
+## 🛠 Tech Stack
 
-### Backend & Database
-- Node.js
-- Firebase
-- MongoDB
-
-### Tools
-- Git
-- GitHub
-- VS Code
-- Figma
-- Vercel
-- Netlify
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux,vite,firebase,nodejs,git,github,vscode,figma,vercel,netlify" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
-![Aswin's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaswne&show_icons=true&theme=tokyonight)
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=aaswne&show_icons=true&theme=tokyonight" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaswne&layout=compact&theme=tokyonight" />
+
+</p>
 
 ---
 
-## 🔥 Most Used Languages
+## 🔥 GitHub Streak
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aaswne&layout=compact&theme=tokyonight)
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aaswne&theme=tokyonight" />
+
+</p>
 
 ---
 
-## 🌐 Portfolio
+## 🌐 Connect With Me
 
-Check out my work here:
-
-https://aswinkrishna.in
+<p>
+<a href="https://linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+</a>
+</p>
