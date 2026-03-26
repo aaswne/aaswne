@@ -1,62 +1,38 @@
 <h1 align="center">Aswin Krishna</h1>
 
 <p align="center">
-Frontend Engineer building modern and user-focused web interfaces
+Frontend Engineer specializing in building modern, scalable, and user-focused web applications
 </p>
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Frontend+Engineer;React+Developer;Modern+Web+Interfaces" />
-</p>
 
----
+<div align="center">
+<div align="left" style="max-width: 600px;">
 
 ## About
-
-Frontend developer focused on building **clean, fast and modern web experiences**.
-
-- Passionate about **UI and user experience**
-- Working with **React and modern frontend tools**
-- Interested in building scalable and maintainable interfaces
-
-🌐 Portfolio  
-https://aswinkrishna.in
-
----
+I am a frontend developer focused on creating performant and maintainable web interfaces using modern technologies. I enjoy building intuitive user experiences and continuously improving my development skills.
 
 ## Tech Stack
-
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux,vite,git,github,vscode,figma,vercel,netlify" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,js,ts" />
 </p>
 
----
+## Projects
+- Samsara AI  
+- Netflix Clone (Full Stack)  
+- OLX Clone App  
 
-## GitHub Stats
+</div>
 
-<p align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=aaswne&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaswne&layout=compact&theme=tokyonight&hide_border=true" />
-
-</p>
-
----
+<br/>
 
 ## Connect
 
 <p align="center">
-
-<a href="https://linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://aswinkrishna.in">
-<img src="https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="https://vercel.com/aswinkrishnas-projects-e4349244">
-<img src="https://img.shields.io/badge/Vercel%20Projects-000?style=flat&logo=vercel&logoColor=white"/>
-</a>
-
+  <a href="https://linkedin.com/in/your-linkedin">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://aswinkrishna.in">
+    <img src="https://skillicons.dev/icons?i=vercel" />
+  </a>
 </p>
